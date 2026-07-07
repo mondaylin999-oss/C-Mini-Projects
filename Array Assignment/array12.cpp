@@ -1,4 +1,4 @@
-//12. GCD (Greatest Common Divisor)
+//12.GCD (Greatest Common Divisor)
 #include <iostream>
 using namespace std;
 
