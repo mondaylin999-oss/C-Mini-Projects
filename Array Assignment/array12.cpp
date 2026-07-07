@@ -16,4 +16,4 @@ int main() {
 
     cout << "GCD of " << n1 << " and " << n2 << " is: " << a << endl;
     return 0;
-}
+}// Presentation Topic: GCD
