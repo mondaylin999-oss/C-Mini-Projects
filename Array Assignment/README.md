@@ -1,1 +1,1 @@
-# 12 C++ Array Presentation Assignments
+# 12 C++ Array topics focusing on C++ array and mathematical implementations
